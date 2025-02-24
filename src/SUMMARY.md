@@ -1,6 +1,7 @@
 # Rust Forge
 
 [Overview](./README.md)
+- [AI Policy](./ai-policy.md)
 - [Platforms](./platforms/README.md)
   - [Twitter](./platforms/twitter.md)
   - [Discord](./platforms/discord.md)
